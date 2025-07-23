@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined");
+.task-container{
+    color:var(--text-color-primary);
+    padding-top: 5rem;
+    position:relative;
+    height:100vh
+}
+.time{
+    font-size:4rem ;
+}
+.message{
+    font-size:2.5rem
+}
+.focusQuestion{
+    font-size:1.5rem;
+    padding-bottom:10px
+}
+.input-container{
+    font-size: 1.3rem;
+    width: 30vw;
+}
+.today-focus{
+    font-size:1.5rem
+}
+.strike-through{
+    text-decoration: line-through;
+}
+.button{
+    background-color: transparent;
+    border: none;
+    color: var(--text-color-primary);
+     width:15px;
+    height:10px
+
+}
+.cursor:hover{
+    cursor: pointer;
+}
+.main-task{
+    font-size: 1.1rem;
+}
+.check{
+    width:15px;
+    height:15px
+}
+.gap-min{
+    gap:5px
+}
+.quote-container{
+    font-size:1.1rem;
+    position:absolute;
+    bottom:2rem;
+    text-align: center;
+    width:70vw
+}
+.btn-todo{
+    font-size:2rem;
+    position:absolute;
+    right:1.5rem;
+    bottom:1rem;
+    margin-bottom: auto;
+    background-color: transparent;
+    border: none;
+    color: var(--text-color-primary);
+}
+.todo-btn-container{
+    right:2rem;
+    bottom:1rem
+}
+.todo-check{
+    width: 0.5em;
+    height: 0.5em;
+}

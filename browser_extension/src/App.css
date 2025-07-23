@@ -1,0 +1,8 @@
+@import url('./styles/utility.css');
+
+.app{
+  height:100vh;
+  background-size:cover ;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
